@@ -1,0 +1,14 @@
+cat <<EOF > .gitignore
+*.retry
+*.log
+*.swp
+*.bak
+__pycache__/
+.vscode/
+.idea/
+*.tar.gz
+*.zip
+*.iso
+vault_pass.txt
+EOF
+

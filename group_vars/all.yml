@@ -1,0 +1,3 @@
+telegram_bot_token: '7821947278:AAFSdS7Abjg4ss8gdNMH45ObvIMCKeQxqlU'
+telegram_chat_id: '776154307'
+prometheus_url: "http://192.168.56.51:9090"
