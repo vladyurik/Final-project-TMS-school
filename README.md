@@ -30,7 +30,7 @@
 
 - **2 Linux-хоста (Ubuntu 22.04)**:
   - **Хост 1**: Ansible, Docker, Jenkins
-  - **Хост 2**: Docker, Prometheus stack
+  - **Хост 2**: Docker
 - Связь по SSH между хостами (из первого ко второму)
 - Минимальные системные требования: 2 vCPU, 2 ГБ RAM на каждом хосте
 
@@ -42,7 +42,6 @@
 
    ```bash
    git clone https://github.com/vladyurik/Final-project-TMS-school.git
-   cd Final-project-TMS-school/roles
    ```
 
 2. Настройте инвентаризацию и переменные:
